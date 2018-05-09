@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutPlayspace</string>
+    <string name="image_description">Sample image description</string>
+    <string name="name">Eric G Njue</string>
+    <string name="alc_role">Android Developer, Nairobi, Kenya</string>
+    <string name="sample">"I love panda. When I know the pandas loves me"</string>
+    <string name="send_message">Send Message</string>
+</resources>
